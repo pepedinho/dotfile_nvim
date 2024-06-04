@@ -50,4 +50,6 @@ vim.opt.shiftwidth = 4
 -- Utiliser des tabulations pour l'indentation automatique
 vim.opt.smarttab = true
 
+vim.g.user = "itahri"
+vim.g.mail = "ithari@student.42.fr"
 
